@@ -1,2 +1,3 @@
 VE_web/
 .env
+__pycache__/
